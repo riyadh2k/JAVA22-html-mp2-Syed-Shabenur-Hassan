@@ -1,0 +1,37 @@
+
+.main{
+    margin: 5rem;
+}
+article{
+    
+    background-color: rgb(236, 230, 230);
+    border: 1px ghostwhite solid;
+    border-radius: 6px;
+    margin: 1rem 1% 0;
+    text-align: center;
+
+}
+
+img{
+    width: 100%;
+    max-width: 400px;
+    max-height: 40%;
+}
+div{
+    display: flex;
+}
+
+.span{
+    flex-basis: 20%;
+}
+footer{
+    padding-top: 2%;
+    display: flex;
+    background-color: ghostwhite;
+    border: 1px solid lightgoldenrodyellow;
+    border-radius: 6px;
+    text-align: center;
+    margin-bottom: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
